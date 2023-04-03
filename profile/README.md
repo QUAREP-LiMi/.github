@@ -1,4 +1,4 @@
-## Hi there 👋
+## QUAREP-LiMi
 
 Welcome to the QUAREP-LiMi github page.
 
